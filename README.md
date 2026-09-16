@@ -20,7 +20,9 @@ I accessed GHDB at the left panel of the the website
 
 ## Step 3
 
-I entered queries of interest in the query box to made available to query the database.<img width="1920" height="1020" alt="Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon - Google Chrome 9_16_2026 5_08_02 PM" src="https://github.com/user-attachments/assets/e864ea75-3d8f-4079-8b13-13f180b28901" />
+I entered queries of interest in the query box to made available to query the database.
+
+<img width="1920" height="1020" alt="Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon - Google Chrome 9_16_2026 5_08_02 PM" src="https://github.com/user-attachments/assets/e864ea75-3d8f-4079-8b13-13f180b28901" />
 
 ## Step 4 
 
@@ -33,15 +35,29 @@ I copied google dorks i was interested in into a search engine
 I accessed links of interest, observed, and interacted with the data as much as i possibly could.
 
 <img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_00_53 AM" src="https://github.com/user-attachments/assets/0ead9033-eeef-4ee7-a855-04f76a8a12a3" />
-<img width="1920" height="1020" alt="Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon - Google Chrome 9_16_2026 5_10_46 PM" src="https://github.com/user-attachments/assets/e1d7719c-6bad-4444-b518-eeb3f2a47921" />
-<img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_07_18 AM" src="https://github.com/user-attachments/assets/2083dc7f-d08d-45d1-b648-3666d092dcd2" /><img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_04_12 AM" src="https://github.com/user-attachments/assets/fd35ec53-04a8-4933-9c5c-d9148f6be943" />
+
+<img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_07_18 AM" src="https://github.com/user-attachments/assets/2083dc7f-d08d-45d1-b648-3666d092dcd2" />
+
+<img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_04_12 AM" src="https://github.com/user-attachments/assets/fd35ec53-04a8-4933-9c5c-d9148f6be943" />
 
 ## Step 6
 
 I recorded the relevant dorks, links, and the data i found.
 
+<img width="1920" height="1020" alt="W2-PM2 - Week2 - Project Module2 - Footp with GHDB v1 - TABLES to fill docx - Word (Product Activation Failed) 9_16_2026 6_51_53 PM" src="https://github.com/user-attachments/assets/e3710001-ca4f-40b3-aa81-db2a22f46e80" />
+
+
 # Conclusion
 This lab illustrates how sophisticated tools or a "hack" does not need to be used to access personal or organizational information. As much as PII or SPII can be accessed if proper measures are not in place to protect data.
 
+# 👨‍🦰 Author
+### Chidozie Zoe Gospel
+Cybersecurity Professional B083
+
+LinkedIn: https://www.linkedin.com/in/chidozie-gospel/
+
+# Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: FOOTPRINTING & RECONNAISSANCE
+ATTACKS WITH GHDB  |  Repository: Github
 
 
