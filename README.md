@@ -10,3 +10,38 @@ This repository details how reconnaissance and foot-printing can be achieved usi
 6. Record findings.
 
 # Lab
+## Step 1
+
+I accessed a web browser and searched for exploit-db.com in a search engine
+
+## Step 2
+
+I accessed GHDB at the left panel of the the website
+
+## Step 3
+
+I entered queries of interest in the query box to made available to query the database.<img width="1920" height="1020" alt="Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon - Google Chrome 9_16_2026 5_08_02 PM" src="https://github.com/user-attachments/assets/e864ea75-3d8f-4079-8b13-13f180b28901" />
+
+## Step 4 
+
+I copied google dorks i was interested in into a search engine
+
+<img width="1920" height="1020" alt="Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon - Google Chrome 9_16_2026 5_10_46 PM" src="https://github.com/user-attachments/assets/7576f037-2de9-4eac-9c40-653f584fc775" />
+
+## Step 5 
+
+I accessed links of interest, observed, and interacted with the data as much as i possibly could.
+
+<img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_00_53 AM" src="https://github.com/user-attachments/assets/0ead9033-eeef-4ee7-a855-04f76a8a12a3" />
+<img width="1920" height="1020" alt="Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon - Google Chrome 9_16_2026 5_10_46 PM" src="https://github.com/user-attachments/assets/e1d7719c-6bad-4444-b518-eeb3f2a47921" />
+<img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_07_18 AM" src="https://github.com/user-attachments/assets/2083dc7f-d08d-45d1-b648-3666d092dcd2" /><img width="1920" height="1020" alt="mx10-14-187-227 - Google Chrome 9_15_2026 7_04_12 AM" src="https://github.com/user-attachments/assets/fd35ec53-04a8-4933-9c5c-d9148f6be943" />
+
+## Step 6
+
+I recorded the relevant dorks, links, and the data i found.
+
+# Conclusion
+This lab illustrates how sophisticated tools or a "hack" does not need to be used to access personal or organizational information. As much as PII or SPII can be accessed if proper measures are not in place to protect data.
+
+
+
