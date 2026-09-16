@@ -20,7 +20,7 @@ I accessed GHDB at the left panel of the the website
 
 ## Step 3
 
-I entered queries of interest in the query box to made available to query the database.
+I entered queries of interest in the query box made available to query the database.
 
 <img width="1920" height="1020" alt="Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon - Google Chrome 9_16_2026 5_08_02 PM" src="https://github.com/user-attachments/assets/e864ea75-3d8f-4079-8b13-13f180b28901" />
 
