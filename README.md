@@ -60,4 +60,8 @@ LinkedIn: https://www.linkedin.com/in/chidozie-gospel/
 Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: FOOTPRINTING & RECONNAISSANCE
 ATTACKS WITH GHDB  |  Repository: Github
 
+# Project Report
+[W2-PM-FINAL-Report .pdf](https://github.com/user-attachments/files/32349148/W2-PM-FINAL-Report.pdf)
+
+
 
